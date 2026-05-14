@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning projects  <br>👯 I’m looking to collaborate on Machine Learning and Computer Vision projects  <br>🤝 I’m looking for help with improving my ML models and real-world implementations  <br>🌱 I’m currently learning Machine Learning, Mathematics, and Advanced Python  <br>💬 Ask me about Python, Data Analysis, and Machine Learning basics  <br>⚡ Fun fact: I love turning data into meaningful insights 🚀
+🔭 I’m currently working on Machine Learning projects  <br>
+👯 I’m looking to collaborate on Machine Learning and Computer Vision projects  <br>
+🤝 I’m looking for help with improving my ML models and real-world implementations  <br>
+🌱 I’m currently learning Machine Learning, Mathematics, and Advanced Python  <br>
+💬 Ask me about Python, Data Analysis, and Machine Learning fundamentals  <br>
 
 ## 🌐 Socials:
 
